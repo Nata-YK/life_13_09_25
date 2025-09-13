@@ -1,3 +1,8 @@
+def foo():
+    pass
+
+def func():
+    ...
 
 def print_hi(name):
 
