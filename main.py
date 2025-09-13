@@ -1,8 +1,8 @@
-def foo():
+def bar():
     pass
 
 def func():
-    ...
+    pass
 
 def print_hi(name):
 
