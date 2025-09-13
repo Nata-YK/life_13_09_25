@@ -1,0 +1,2 @@
+# LIFE LESSON 13/07/2025
+## PYTHON language
